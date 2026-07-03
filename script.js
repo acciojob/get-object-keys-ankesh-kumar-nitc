@@ -1,4 +1,4 @@
-const student = {
+let student = {
   name: "John"
 };
 
