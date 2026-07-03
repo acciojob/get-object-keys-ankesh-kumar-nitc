@@ -1,4 +1,4 @@
-let student = {
+var student = {
   name: "John"
 };
 
